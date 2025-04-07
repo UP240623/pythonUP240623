@@ -1,18 +1,18 @@
 dog = {}                                                            #1
 
-dog["name"], dog["color"], dog["breed"], dog["legs"], dog["age"] = "Max", "brown", "Dachshund", 4, 5   #2
+dog["name"], dog["color"], dog["breed"], dog["legs"], dog["age"] = "Billy", "Black", "Dachshund", 4, 5   #2
 print(dog)
 
 student = {                                                         #3
-    "first_name":"David",
-    "last_name":"Padilla",
+    "first_name":"Fernando",
+    "last_name":"Bautista,
     "gender":"male",
     "age":18,
     "marital_status":"single",
     "skills":["python", "sleeping", "math"],
     "country":"Mexico",
     "city":"Aguascalientes",
-    "address":"Flor de Nochebuena #86"
+    "address":"Calzada Navarra 456"
 }
 
 print(len(student))                                                 #4
